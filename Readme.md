@@ -4,11 +4,7 @@ This project works with two tables that contain Twitch users’ stream viewing d
 
 ## Dependencies
 
-Python 3.10...
-
-## Executing program
-
-Simple Python 3 program that can be ran in your preferred code editor (e.g. Visual Studio Code)
+Simple SQL that can be ran in your preferred code editor (e.g. Visual Studio Code)
 
 ## Future Commits
 
