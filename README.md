@@ -4,7 +4,7 @@ This project works with two tables that contain Twitch users’ stream viewing d
 
 ## Dependencies
 
-Simple SQL that can be ran in your preferred code editor (e.g. Visual Studio Code)
+Simple SQL that can be ran in your preferred SQL cleint.
 
 ## Future Commits
 
